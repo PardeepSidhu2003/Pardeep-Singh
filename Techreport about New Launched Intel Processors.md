@@ -6,4 +6,4 @@ I read some Qualities about Processors which are:
 - AI Acceleration
 - Advanced Memory and I\O Supprot
 
-[i have found a Video link on Intel Xeon]    (https://www.youtube.com/watch?v=eoYfkYsv1YY)
+[ i have found a Video link on Intel Xeon ]    (https://www.youtube.com/watch?v=eoYfkYsv1YY)
